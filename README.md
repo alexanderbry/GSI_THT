@@ -19,10 +19,10 @@ Cukup jalankan perintah berikut di terminal sesuai input yang ada inginkan:
 ```sh
 npm run calculate "Input Anda"
 ```
+Atau contoh lainnya:
 ```sh
 npm run calculate "Titanic"
 ```
-Atau contoh lainnya:
 ```sh
 npm run calculate "Avengers Endgame"
 ```
