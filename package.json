@@ -1,0 +1,21 @@
+{
+  "name": "gsi_tht",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderbry/GSI_THT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alexanderbry/GSI_THT/issues"
+  },
+  "homepage": "https://github.com/alexanderbry/GSI_THT#readme"
+}
